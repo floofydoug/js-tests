@@ -1,5 +1,6 @@
 // functions.js
-function addTwoNumbers() {
+function addTwoNumbers(x,y) {
+    return x, y; 
 }
 
 module.exports = {
